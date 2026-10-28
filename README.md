@@ -1,3 +1,4 @@
+<img width="1944" height="540" alt="AudioBreach_Devlog002_03c_spot_the_difference" src="https://github.com/user-attachments/assets/ab21802d-19bb-497b-b377-f43163632b19" />
 # Audio Breach — Devlog #003: The Person Behind the Silence
 
 <!-- Optional hero image: Replace the path with a real Audio Breach screenshot when available. -->
